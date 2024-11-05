@@ -1,4 +1,4 @@
-module railproto
+module github.com/3zheng/railproto
 
 go 1.23.0
 
